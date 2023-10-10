@@ -1,0 +1,90 @@
+.card-header{
+    background-color:#004225 !important;
+    color: #f1f1f1 !important;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    /* position: fixed; */
+  }
+
+  .card{
+    border:  none !important;
+    height: 100% !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-top: 15%;
+    margin-left: 16%;
+  }
+  .numbar-span{
+    color: #73777B;
+    font-family: "Poppins", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: line-through;
+  }
+  .card-title{
+    color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px ;
+  }
+  .approval-name{
+    color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px ; 
+  }
+  .card-text{
+    color: #73777B;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px ;
+  }
+
+  .some-name{
+    color: red;
+  }
+.form-check-label{
+    color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+  .form-check-input[type='radio']:checked {
+    background-color: red !important;
+    border-color: red !important;
+  }
+  .form-check{
+    gap: 3px;
+  }
+
+  .buy-btn{
+    width: 40% !important;
+    background-color: #FFCD4B;
+    color: aliceblue;
+    border: none;
+    font-weight: 20px !;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none !important;
+  }
+  .linktext {
+    text-decoration: none !important;
+  }

@@ -1,0 +1,29 @@
+.flex_row {
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  z-index: 10;
+}
+/* .thumbgallery {
+  padding-left: 40px !important;
+  
+} */
+.thumbgimage {
+
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.arrow-icon{
+    font-size: 2rem;
+    color:#016A70;
+
+}
+.imageData{
+    border: 4px solid wheat;
+    border-radius: 20px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.inThumbgallery{
+    display: flex;
+    justify-content: center;
+}

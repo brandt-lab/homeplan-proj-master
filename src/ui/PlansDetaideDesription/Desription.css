@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,900;1,100;1,200;1,400;1,500;1,800;1,900&display=swap");
+
+.All-text{
+    margin-top: 14%;
+}
+.About{ 
+  color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+    width: 140%;
+}
+
+.header{
+    color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.header-texts{
+    color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.th-text{
+    color: #2f327d;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 3px ;
+}
+
+td{
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+   letter-spacing: 1px;
+}
+.icon-star{
+    color: #DAC0A3;
+}
+
+.review-desription{
+    color: #F94C10;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.review-span{
+    color: #73777B;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.Line-span{
+    color: #73777B;
+    font-family: "Poppins", sans-serif;
+    height: 200px;
+    margin-left: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading {
+    font-size: 25px;
+    margin-right: 25px;
+  }
+  
+  .fa {
+    font-size: 25px;
+  }
+  
+  .checked {
+    color: orange;
+  }
+  
+  /* Three column layout */
+  .side {
+    float: left;
+    width: 15%;
+    margin-top:10px;
+  }
+  
+  .middle {
+    margin-top:10px;
+    float: left;
+    width: 70%;
+  }
+  
+  /* Place text to the right */
+  .right {
+    text-align: right;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* The bar container */
+  .bar-container {
+    width: 90%;
+    background-color: #f1f1f1;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+  }
+  
+  /* Individual bars */
+  .bar-5 {width: 60%; height: 10px; border-radius: 20px; background-color: #04AA6D;}
+  .bar-4 {width: 30%; height: 10px;  border-radius: 20px;  background-color: #2196F3;}
+  .bar-3 {width: 10%; height: 10px;  border-radius: 20px;  background-color: #00bcd4;}
+  .bar-2 {width: 4%; height: 10px;   border-radius: 20px; background-color: #ff9800;}
+  .bar-1 {width: 15%; height: 10px;  border-radius: 20px;  background-color: #f44336;}
+  
+  /* Responsive layout - make the columns stack on top of each other instead of next to each other */
+  @media (max-width: 400px) {
+    .side, .middle {
+      width: 100%;
+    }
+    .right {
+      display: none;
+    }
+  }
+
